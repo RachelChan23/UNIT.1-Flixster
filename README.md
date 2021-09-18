@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/wDQQtWz.gif)
+<img src="http://g.recordit.co/rdwacttHNm.gif" width=250><br>
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
